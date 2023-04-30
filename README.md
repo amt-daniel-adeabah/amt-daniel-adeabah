@@ -1,10 +1,5 @@
-- 👋 Hi, I'm @danieladeabah, a front-end developer specializing in crafting visually stunning and highly interactive web experiences.
-- 👀 I'm interested in exploring the latest front-end technologies and design trends, such as responsive design, accessibility, and user experience (UX) design.
-- 🌱 I'm currently learning about new front-end frameworks and libraries, such as React, Vue, and Angular, to stay up-to-date with the latest industry standards.
-- 🔧 I have experience working with a variety of front-end tools and technologies, including HTML, CSS, JavaScript, jQuery, Bootstrap, and Sass/SCSS.
-- 🎨 I have a keen eye for design and a deep understanding of design principles and color theory, which allows me to create visually appealing and user-friendly web interfaces.
-- 🚀 I'm always striving to improve my skills and knowledge, whether it's through attending conferences, participating in online courses, or experimenting with new front-end tools and frameworks.
-- 🤝 I value collaboration and communication in my work, and I enjoy working closely with other developers, designers, and stakeholders to ensure that projects are delivered on time and meet client expectations.
-- 💼 I have experience working in various industries, including e-commerce, healthcare, finance, and education, which has given me a broad perspective on different types of web applications and user needs.
-- 💞️ I'm always looking to collaborate on exciting front-end projects that challenge my skills and creativity and push me to deliver exceptional results.
-- 📫 If you have any project ideas or collaboration opportunities in mind, feel free to contact me on this platform or through my email [danieladeabaa@gmail.com]. Let's build beautiful and engaging web experiences together!
+Hi, I'm @danieladeabah, a front-end developer specializing in creating visually stunning and interactive web experiences. I keep up with the latest front-end technologies and design trends, and am currently learning new frameworks and libraries like React, Vue, and Angular. I have experience with front-end tools like HTML, CSS, JavaScript, jQuery, Bootstrap, and Sass/SCSS, and have a keen eye for design and deep understanding of design principles.
+
+I continuously improve my skills by attending conferences, participating in online courses, and experimenting with new tools and frameworks. Collaboration and communication are key in my work, and I enjoy working with other developers, designers, and stakeholders to deliver projects on time and meet client expectations.
+
+With experience in e-commerce, healthcare, finance, and education industries, I have a broad perspective on different types of web applications and user needs. I'm always looking for exciting front-end projects to challenge my creativity and deliver exceptional results. Contact me on this platform or through my email [danieladeabaa@gmail.com] to collaborate on building beautiful and engaging web experiences together!
