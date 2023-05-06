@@ -1,5 +1,7 @@
-Hi, I'm @danieladeabah, a front-end developer specializing in creating visually stunning and interactive web experiences. I keep up with the latest front-end technologies and design trends, and am currently learning new frameworks and libraries like React, Vue, and Angular. I have experience with front-end tools like HTML, CSS, JavaScript, jQuery, Bootstrap, and Sass/SCSS, and have a keen eye for design and deep understanding of design principles.
+Hey! I'm Daniel. 
 
-I continuously improve my skills by attending conferences, participating in online courses, and experimenting with new tools and frameworks. Collaboration and communication are key in my work, and I enjoy working with other developers, designers, and stakeholders to deliver projects on time and meet client expectations.
+Coding has changed my world. It's not just about apps. Learning to code gave me problem-solving skills and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job. And I learned it all at SoloLearn, CodeAcademy, FreeCodeCamp, w3schools, IPMC, AmaliTech gGmbH… where they build your self-esteem and keep you motivated. 
 
-With experience in e-commerce, healthcare, finance, and education industries, I have a broad perspective on different types of web applications and user needs. I'm always looking for exciting front-end projects to challenge my creativity and deliver exceptional results. Contact me on this platform or through my email [danieladeabaa@gmail.com] to collaborate on building beautiful and engaging web experiences together!
+Join me in this rewarding journey. You'll have fun, get help, and learn along the way!
+
+"Declare variables, not war"
