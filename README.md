@@ -1,8 +1,5 @@
-Hello! I'm Daniel. 
+Experienced front-end developer with a strong passion for creating captivating user experiences. Skilled in HTML, CSS, and JavaScript, I bring designs to life with seamless responsiveness. Proficient in ReactJS and Angular, I build dynamic web applications and integrate APIs for efficient data retrieval.
 
-Coding has altered my entire universe. Not all of it is about apps. My ability to communicate technically with people and develop problem-solving skills came from learning to code. Additionally, I can create websites and use my coding expertise to advance in my career. And I acquired all of this knowledge at places like IPMC, CodeAcademy, FreeCodeCamp, w3schools, SoloLearn, and AmaliTech gGmbH, where they boost your motivation and self-esteem. 
+I excel in cross-functional teams, collaborating closely with designers and back-end developers. With a focus on user-centered design, I conduct thorough research to create intuitive interfaces. Continual learning is key, and I stay up-to-date with emerging technologies to deliver innovative solutions.
 
-
-Join me on this worthwhile adventure. Along the way, you'll have fun, get assistance, and learn.
-
-"Declare variables rather than war"
+Committed to delivering pixel-perfect designs, I thrive on challenges and finding creative solutions. Let's connect and leverage my expertise to make a meaningful impact.
