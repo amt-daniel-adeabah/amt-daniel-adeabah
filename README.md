@@ -1,1 +1,1 @@
-Hello,🖐
+Skilled Front-End Developer (7+ years). Crafts user-friendly web applications with modern frameworks like React and Vue.js. Passionate about continuous learning, staying ahead of the curve in front-end development trends
