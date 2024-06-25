@@ -1,1 +1,1 @@
-Skilled Front-End Developer with 7 years of experience crafting user-friendly web applications using modern frameworks like React and Vue.js. Passionate about continuous learning and staying ahead of front-end development trends. Extensive experience in backend development, ensuring a comprehensive understanding of full-stack development.
+Front-End Developer | Modern Frameworks (React, Vue.js, etc.) | Lifelong Learner | Full-Stack
