@@ -1,1 +1,1 @@
-Front-End Developer with modern frameworks (React, Vue.js) & full-stack development knowledge. Passionate learner, keeps pace with trends.
+Front-End Developer | Modern Frameworks (React, Vue.js) | Passionate Learner | Attention to Details | Tech Trends.
